@@ -1,0 +1,921 @@
+ 4  137.189.192.232 (137.189.192.232)  1.214 ms  1.482 ms  1.220 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.866 ms  229.765 ms  229.745 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.879 ms  228.406 ms  229.849 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.598 ms  230.075 ms  227.301 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.202 ms  230.298 ms  227.543 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.248 ms  227.144 ms  227.633 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.393 ms  1.714 ms  1.254 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  221.407 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  219.409 ms  219.414 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.725 ms  227.668 ms  227.640 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.035 ms  227.921 ms  228.008 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.908 ms  227.584 ms  230.069 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.716 ms  229.746 ms  227.345 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.034 ms  229.767 ms  227.441 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.619 ms  218.115 ms  218.084 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.077 ms  227.741 ms  230.184 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.738 ms  229.910 ms  227.725 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  227.154 ms  224.714 ms  227.088 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.579 ms  230.507 ms  227.657 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.315 ms vl-2-gw.uoregon.edu (128.223.2.1)  257.991 ms  257.979 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.710 ms  227.527 ms  226.907 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.600 ms  229.984 ms  227.773 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.392 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.217 ms  218.214 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.370 ms  230.200 ms  228.006 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.183 ms  227.421 ms  227.974 ms
+ 6  so-2-0-0.r0.jp.asgc.net (117.103.111.217)  33.769 ms  33.602 ms  33.314 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.892 ms  229.801 ms  230.044 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  219.991 ms  220.514 ms  218.014 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.851 ms  229.783 ms  227.906 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.741 ms  229.975 ms  227.493 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  222.161 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  222.214 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  222.186 ms
+12  198.32.165.56 (198.32.165.56)  229.215 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  229.847 ms 198.32.165.56 (198.32.165.56)  227.933 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.378 ms  227.256 ms  227.247 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.868 ms 198.32.165.56 (198.32.165.56)  230.715 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.845 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.804 ms  230.120 ms  230.105 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.482 ms  230.376 ms  227.471 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.622 ms  2.615 ms  2.832 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.478 ms  227.429 ms  230.163 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.708 ms  230.038 ms  228.269 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.756 ms  228.060 ms  227.638 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.547 ms  1.514 ms  1.489 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.223 ms  230.187 ms  227.916 ms
+Fri Apr  1 05:44:15 UTC 2016
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.458 ms  1.296 ms  1.415 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.246 ms  228.259 ms  228.256 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.007 ms  230.011 ms  230.395 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  210.815 ms  211.321 ms  210.736 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.609 ms  228.314 ms  227.557 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.717 ms  33.522 ms  33.614 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  230.752 ms  230.815 ms 198.32.165.56 (198.32.165.56)  230.420 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.675 ms  230.710 ms  230.667 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.270 ms  227.607 ms  228.151 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.939 ms  2.463 ms  2.915 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.846 ms  227.731 ms  227.675 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.616 ms  229.897 ms  227.571 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.355 ms  227.245 ms  227.461 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.007 ms  228.194 ms  229.899 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.129 ms  229.757 ms  227.404 ms
+ 4  137.189.192.232 (137.189.192.232)  338.944 ms  338.868 ms  338.914 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.786 ms  229.991 ms  229.714 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.208 ms  1.146 ms  1.414 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.414 ms 198.32.165.56 (198.32.165.56)  228.294 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  230.215 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.414 ms 198.32.165.56 (198.32.165.56)  228.294 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  230.215 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.977 ms  227.512 ms  227.524 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  218.314 ms  220.780 ms  218.112 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.885 ms  231.550 ms  230.219 ms
+Fri Apr  1 18:45:14 UTC 2016
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  2.014 ms  1.632 ms  1.990 ms
+ 4  137.189.192.232 (137.189.192.232)  19.312 ms  19.214 ms  19.224 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  231.650 ms  229.613 ms  231.949 ms
+Fri Apr  1 19:30:14 UTC 2016
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.030 ms  229.346 ms  229.348 ms
+Fri Apr  1 19:45:15 UTC 2016
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  214.806 ms  214.814 ms  215.302 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.792 ms  227.801 ms  228.175 ms
+Fri Apr  1 20:30:15 UTC 2016
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.842 ms  231.393 ms  229.165 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.168 ms  229.906 ms  229.706 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.681 ms  227.566 ms  229.648 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.309 ms  227.703 ms  227.238 ms
+ 3  137.189.192.233 (137.189.192.233)  1.394 ms  1.615 ms  1.335 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.955 ms  227.435 ms  229.803 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.489 ms  229.869 ms  229.831 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.719 ms  227.547 ms  227.253 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.424 ms  227.348 ms  227.353 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  247.815 ms vl-2-gw.uoregon.edu (128.223.2.1)  231.012 ms  230.965 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.752 ms  227.120 ms  227.566 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  227.521 ms  227.982 ms  229.914 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.431 ms  228.099 ms  230.045 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  230.001 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  228.514 ms  229.904 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.364 ms  227.316 ms  229.617 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.960 ms  227.149 ms  229.696 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.614 ms  33.544 ms  33.666 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.006 ms  229.867 ms  229.512 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.885 ms  229.857 ms  230.334 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  228.322 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.131 ms  230.514 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.577 ms  229.639 ms  229.989 ms
+ 4  137.189.192.232 (137.189.192.232)  1.915 ms  1.516 ms  1.510 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  229.755 ms vl-2-gw.uoregon.edu (128.223.2.1)  231.115 ms  231.112 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.909 ms  230.906 ms  230.917 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.561 ms  227.661 ms  227.638 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  218.097 ms  218.115 ms  218.091 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.942 ms  227.527 ms  229.802 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  224.615 ms  224.351 ms  227.112 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.514 ms  227.509 ms  227.147 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.500 ms  220.494 ms  220.715 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.602 ms  227.600 ms  227.195 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.412 ms  1.315 ms  1.369 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.796 ms  227.777 ms  230.021 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  224.784 ms  224.314 ms  225.764 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.692 ms  227.640 ms  229.915 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.692 ms  227.640 ms  229.915 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.617 ms  2.614 ms  3.048 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.904 ms  229.887 ms  227.592 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.006 ms  227.299 ms  227.665 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.495 ms  229.954 ms  227.261 ms
+ 4  137.189.192.232 (137.189.192.232)  17.555 ms  17.614 ms  17.604 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.001 ms  227.606 ms  230.051 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  3.014 ms  2.643 ms  2.608 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.961 ms  230.090 ms  230.073 ms
+ 3  137.189.192.233 (137.189.192.233)  1.707 ms  1.156 ms  1.414 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.255 ms  227.543 ms  227.502 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.029 ms  227.536 ms  230.198 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  221.115 ms  220.248 ms  221.008 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.706 ms  227.567 ms  230.233 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.706 ms  33.410 ms  33.315 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.947 ms  230.182 ms  230.000 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.190 ms  229.854 ms  229.900 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  218.270 ms  218.218 ms  218.214 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.161 ms  227.558 ms  227.938 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.220 ms  227.664 ms  230.218 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.032 ms  227.992 ms  229.766 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.756 ms  230.545 ms  227.835 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.697 ms  230.056 ms  227.764 ms
+ 3  137.189.192.233 (137.189.192.233)  1.609 ms  1.610 ms  1.314 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.832 ms  230.781 ms  227.726 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.668 ms  1.614 ms  1.583 ms
+12  198.32.165.56 (198.32.165.56)  230.315 ms  228.035 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.720 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.767 ms  227.627 ms  227.667 ms
+ 3  137.189.192.233 (137.189.192.233)  3.515 ms  3.513 ms  3.483 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.587 ms  227.732 ms  227.783 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.210 ms  227.363 ms  227.387 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.496 ms  1.468 ms  1.415 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.314 ms  1.403 ms  1.631 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.046 ms  228.057 ms  228.012 ms
+ 4  137.189.192.232 (137.189.192.232)  2.214 ms  1.499 ms  2.137 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.131 ms  33.043 ms  33.714 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  213.723 ms  213.725 ms  213.715 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.284 ms  229.911 ms  230.053 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  224.712 ms  226.837 ms  226.814 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  228.214 ms  227.942 ms vl-2-gw.uoregon.edu (128.223.2.1)  231.102 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.682 ms  227.749 ms  230.002 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  211.269 ms  213.715 ms  213.633 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.576 ms  229.695 ms  227.880 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.999 ms  229.971 ms  229.919 ms
+ 4  137.189.192.232 (137.189.192.232)  1.455 ms  1.415 ms  1.597 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  228.012 ms vl-2-gw.uoregon.edu (128.223.2.1)  231.398 ms  230.014 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.732 ms  227.450 ms  230.089 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.084 ms  213.744 ms  213.715 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.719 ms  227.634 ms  227.256 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.454 ms  230.123 ms  227.338 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.382 ms  227.318 ms  227.323 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.914 ms  229.843 ms  229.934 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.262 ms  229.689 ms  227.492 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.003 ms  227.469 ms  227.667 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  210.749 ms  210.668 ms  211.014 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.653 ms  229.651 ms  227.427 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.559 ms  227.834 ms  227.279 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  214.356 ms  212.015 ms  211.232 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.484 ms  229.945 ms  227.700 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.915 ms  33.064 ms  33.603 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.191 ms  230.116 ms  227.598 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.476 ms  1.480 ms  1.515 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.161 ms  229.819 ms  227.539 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.806 ms  227.356 ms  227.728 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.251 ms  228.050 ms  228.031 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  212.117 ms  213.915 ms  213.883 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.160 ms  230.308 ms  227.794 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.035 ms  229.700 ms  227.715 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.035 ms  229.700 ms  227.715 ms
+ 4  137.189.192.232 (137.189.192.232)  2.018 ms  2.014 ms  1.673 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  229.822 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  229.915 ms vl-2-gw.uoregon.edu (128.223.2.1)  229.719 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.815 ms  227.876 ms  229.771 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.815 ms  227.876 ms  229.771 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.912 ms  230.090 ms  230.535 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.433 ms  227.439 ms  227.434 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.436 ms  1.365 ms  1.414 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.546 ms  227.815 ms  227.182 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.546 ms  227.815 ms  227.182 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.014 ms  33.172 ms  33.246 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.415 ms  213.239 ms  213.575 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.515 ms  227.864 ms  227.546 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.515 ms  227.864 ms  227.546 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  3.014 ms  3.015 ms  2.982 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  3.014 ms  3.015 ms  2.982 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.720 ms  227.147 ms  229.865 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.760 ms  227.650 ms  230.036 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.161 ms  227.534 ms  227.538 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.302 ms  227.320 ms  230.170 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.832 ms  230.035 ms  227.286 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.814 ms  218.148 ms  220.770 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.712 ms  229.677 ms  230.182 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.573 ms  2.548 ms  2.515 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.576 ms  230.591 ms  230.539 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.042 ms  227.401 ms  228.449 ms
+ 4  137.189.192.232 (137.189.192.232)  14.550 ms  14.615 ms  14.511 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.780 ms  230.102 ms  229.754 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.407 ms  230.324 ms  227.522 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.830 ms  227.546 ms  227.513 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.203 ms  229.977 ms  227.552 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  221.221 ms  218.123 ms  218.015 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  229.801 ms  230.115 ms  230.079 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.766 ms  227.339 ms  227.698 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.696 ms  2.657 ms  2.614 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.135 ms  227.119 ms  230.040 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.526 ms  2.525 ms  2.915 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.169 ms  227.428 ms  229.979 ms
+ 7  xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.162 ms  218.215 ms  218.235 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  230.114 ms 198.32.165.56 (198.32.165.56)  227.870 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.895 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.750 ms  229.980 ms  229.798 ms
+ 4  137.189.192.232 (137.189.192.232)  19.645 ms  19.814 ms  19.808 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.587 ms  227.587 ms  230.394 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.042 ms  227.972 ms  228.414 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.448 ms  227.999 ms  227.614 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.416 ms  229.826 ms  227.591 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.562 ms  1.558 ms  1.514 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.765 ms  229.953 ms  229.931 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.111 ms  230.314 ms  227.618 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.236 ms  227.803 ms  230.247 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.317 ms  227.308 ms  227.490 ms
+12  198.32.165.56 (198.32.165.56)  227.814 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  229.818 ms 198.32.165.56 (198.32.165.56)  230.449 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.277 ms  227.294 ms  230.069 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.814 ms  1.519 ms  2.045 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.232 ms  2.874 ms  2.514 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.501 ms  228.042 ms  227.986 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  218.015 ms  218.012 ms  218.000 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.858 ms  229.864 ms  227.594 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.806 ms  229.839 ms  227.595 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.393 ms  33.314 ms  33.271 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.405 ms  227.986 ms  227.906 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.215 ms  227.481 ms  230.201 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.475 ms  227.412 ms  227.493 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  222.534 ms  220.714 ms  220.244 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.098 ms  230.098 ms  229.958 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.515 ms  1.873 ms  1.874 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.288 ms  1.454 ms  1.815 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.719 ms  227.514 ms  229.913 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.453 ms 198.32.165.56 (198.32.165.56)  228.814 ms  231.221 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.277 ms  228.122 ms  230.234 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.417 ms  1.614 ms  1.631 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.413 ms  231.138 ms  229.752 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  227.797 ms vl-2-gw.uoregon.edu (128.223.2.1)  228.815 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.590 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.928 ms  227.967 ms  227.318 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.791 ms  227.787 ms  227.384 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.222 ms  227.385 ms  227.466 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  2.014 ms  1.361 ms  1.352 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.615 ms  2.339 ms  2.729 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.961 ms  229.714 ms  227.838 ms
+ 3  137.189.192.233 (137.189.192.233)  1.124 ms  1.602 ms  1.914 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.261 ms  229.805 ms  229.789 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.214 ms  220.174 ms  217.908 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.815 ms  220.656 ms  220.618 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.629 ms  229.950 ms  227.579 ms
+ 4  137.189.192.232 (137.189.192.232)  160.715 ms  160.636 ms  160.663 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.220 ms  228.148 ms  228.115 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.220 ms  228.148 ms  228.115 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.614 ms  218.231 ms  217.912 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.143 ms  227.666 ms  227.490 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.740 ms  227.757 ms  229.923 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.002 ms  33.215 ms  33.531 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.295 ms  227.455 ms  227.571 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.528 ms  228.455 ms  227.633 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.985 ms  229.867 ms  227.499 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.748 ms  230.087 ms  227.466 ms
+ 3  137.189.192.233 (137.189.192.233)  1.315 ms  1.529 ms  1.488 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.997 ms  227.966 ms  227.959 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.324 ms  227.331 ms  230.164 ms
+Mon Apr  4 05:46:14 UTC 2016
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.350 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  217.915 ms  217.907 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  318.115 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  227.819 ms  230.561 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.135 ms  230.484 ms  227.759 ms
+ 3  137.189.192.233 (137.189.192.233)  1.511 ms  1.455 ms  1.415 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  229.915 ms 198.32.165.56 (198.32.165.56)  230.598 ms  230.228 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  230.014 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.021 ms vl-2-gw.uoregon.edu (128.223.2.1)  228.110 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.339 ms  227.544 ms  230.378 ms
+ 3  137.189.192.233 (137.189.192.233)  1.210 ms  1.415 ms  1.171 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.986 ms  227.232 ms  227.707 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.114 ms  33.396 ms  33.233 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.873 ms  227.435 ms  229.626 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.306 ms  230.110 ms  227.377 ms
+12  198.32.165.56 (198.32.165.56)  230.457 ms  227.714 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.545 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.377 ms  227.669 ms  227.396 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.414 ms  1.378 ms  1.603 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.715 ms  220.796 ms  220.809 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.145 ms  228.176 ms  228.196 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.350 ms  227.698 ms  227.114 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.461 ms  230.321 ms  227.879 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.114 ms  211.071 ms  211.119 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.623 ms  229.853 ms  227.947 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.415 ms  1.403 ms  1.352 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  217.912 ms  220.621 ms  220.615 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  213.471 ms  213.500 ms  213.715 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.058 ms  230.077 ms vl-2-gw.uoregon.edu (128.223.2.1)  227.515 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.717 ms  227.198 ms  227.111 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.124 ms  211.125 ms  213.814 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.499 ms  227.801 ms  227.761 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.815 ms  220.808 ms  218.765 ms
+12  198.32.165.56 (198.32.165.56)  230.115 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  228.291 ms 198.32.165.56 (198.32.165.56)  228.658 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.596 ms  229.992 ms  229.991 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.604 ms  229.560 ms  227.176 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.417 ms  214.115 ms  213.302 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.041 ms  227.410 ms  229.968 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.086 ms  227.865 ms  230.015 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.850 ms  230.693 ms  230.603 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  227.709 ms  224.415 ms  224.282 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.102 ms  227.594 ms  230.330 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.326 ms  1.316 ms  1.314 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.313 ms  227.504 ms  229.891 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.292 ms  33.750 ms  33.714 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.066 ms  228.032 ms  228.036 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.634 ms  230.033 ms  229.840 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.914 ms  1.511 ms  1.785 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.960 ms  2.415 ms  2.410 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.597 ms  227.589 ms  230.127 ms
+ 4  137.189.192.232 (137.189.192.232)  314.439 ms  314.314 ms  314.411 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.552 ms  229.588 ms  230.093 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.101 ms  227.522 ms  229.698 ms
+ 3  137.189.192.233 (137.189.192.233)  1.314 ms  1.247 ms  1.266 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  223.241 ms  223.314 ms  220.447 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.549 ms  227.531 ms  227.497 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.315 ms  220.272 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.000 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.684 ms  227.172 ms  229.695 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.062 ms  33.340 ms  33.314 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.214 ms  217.746 ms  220.239 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.090 ms  230.088 ms  227.544 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  231.281 ms 198.32.165.56 (198.32.165.56)  227.915 ms  230.447 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.542 ms  229.683 ms  229.919 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.773 ms  227.569 ms  227.443 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  219.922 ms  220.277 ms  220.414 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.687 ms  229.743 ms  227.476 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.547 ms  230.025 ms  227.422 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  229.850 ms  228.726 ms 198.32.165.56 (198.32.165.56)  230.615 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.625 ms  229.892 ms  227.432 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.930 ms  227.294 ms  229.659 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.277 ms  227.514 ms vl-2-gw.uoregon.edu (128.223.2.1)  227.863 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.155 ms  229.681 ms  227.609 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.884 ms  227.120 ms  227.815 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.884 ms  227.120 ms  227.815 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.832 ms  229.801 ms  229.938 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.696 ms  227.664 ms  229.753 ms
+ 3  137.189.192.233 (137.189.192.233)  1.848 ms  1.815 ms  1.260 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  227.054 ms  224.953 ms  224.614 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.182 ms  227.780 ms  227.724 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.415 ms  2.736 ms  2.387 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  213.860 ms  211.314 ms  213.747 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.089 ms  227.464 ms  227.455 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.379 ms  230.079 ms  227.324 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.902 ms  227.953 ms  227.886 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.546 ms  1.493 ms  1.515 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.298 ms  33.215 ms  33.605 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.905 ms  229.967 ms  230.049 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.363 ms  227.929 ms  229.678 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.978 ms  230.091 ms  227.454 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  229.752 ms  229.914 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.243 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.984 ms  227.218 ms  227.182 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.930 ms  227.783 ms  229.887 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.903 ms  229.963 ms  227.598 ms
+Tue Apr  5 04:47:15 UTC 2016
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.114 ms  33.433 ms  33.841 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.960 ms  229.739 ms  229.722 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.789 ms  227.792 ms  230.038 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.027 ms  227.408 ms  227.273 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.729 ms  227.143 ms  227.627 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  217.692 ms  217.761 ms  220.015 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.618 ms  229.843 ms  230.665 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.456 ms  229.709 ms  229.795 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  3.756 ms  2.614 ms  2.577 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.494 ms  227.375 ms  227.820 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.834 ms  218.181 ms  218.314 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.104 ms  227.523 ms  227.518 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.212 ms  220.315 ms  217.868 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  229.915 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  227.570 ms vl-2-gw.uoregon.edu (128.223.2.1)  227.917 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.096 ms  229.602 ms  227.446 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.883 ms  230.579 ms  227.280 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.594 ms  230.212 ms  227.816 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.622 ms  229.553 ms  227.516 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.274 ms  230.270 ms  227.315 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.274 ms  230.270 ms  227.315 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.858 ms  227.780 ms  227.674 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.115 ms  220.059 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.478 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.515 ms  218.137 ms  218.103 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.771 ms  229.757 ms  228.109 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  213.361 ms  213.415 ms  211.011 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.178 ms  229.878 ms  227.279 ms
+ 3  137.189.192.233 (137.189.192.233)  1.614 ms  1.618 ms  1.167 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.118 ms  220.114 ms  220.104 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.959 ms  230.089 ms  229.875 ms
+ 7  xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.059 ms  218.015 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.408 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.379 ms  227.655 ms  229.832 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.165 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.148 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.414 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  226.872 ms  224.914 ms  224.891 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.215 ms  227.339 ms  229.600 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.215 ms  227.339 ms  229.600 ms
+Tue Apr  5 14:33:14 UTC 2016
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.629 ms  227.693 ms  229.898 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.973 ms  229.921 ms  227.568 ms
+Tue Apr  5 15:33:14 UTC 2016
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.771 ms  227.259 ms  227.231 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  3.614 ms  3.589 ms  3.534 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.624 ms  227.610 ms  227.186 ms
+Tue Apr  5 16:33:15 UTC 2016
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.973 ms  230.030 ms  227.518 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.638 ms  1.315 ms  1.651 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  218.182 ms  220.230 ms  217.515 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  213.789 ms  211.215 ms  213.252 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.373 ms  229.796 ms  229.481 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.467 ms  217.739 ms  220.415 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.384 ms  230.227 ms  227.788 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.517 ms  227.257 ms  227.290 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.626 ms  230.247 ms  229.579 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.702 ms  230.190 ms  229.752 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.570 ms  227.604 ms  227.152 ms
+ 3  137.189.192.233 (137.189.192.233)  1.414 ms  1.428 ms  1.402 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.315 ms  220.299 ms  220.657 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  227.036 ms  224.624 ms  227.015 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.513 ms  229.941 ms  229.925 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.797 ms  227.734 ms  230.092 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.649 ms  230.149 ms  229.935 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.734 ms  227.365 ms  227.629 ms
+12  198.32.165.56 (198.32.165.56)  230.484 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  229.906 ms 198.32.165.56 (198.32.165.56)  230.514 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.763 ms  228.119 ms  228.196 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.452 ms  227.173 ms  227.536 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  213.939 ms  213.367 ms  213.615 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.476 ms  227.345 ms  227.490 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.571 ms  230.100 ms  227.786 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.475 ms  228.071 ms  227.998 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.515 ms  218.435 ms  220.402 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.656 ms  229.715 ms  229.929 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.656 ms  229.715 ms  229.929 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  217.851 ms  220.408 ms  220.415 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.368 ms  227.907 ms  227.926 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.949 ms  229.908 ms  230.471 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.814 ms  220.808 ms  220.239 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.429 ms  227.301 ms  228.137 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  225.814 ms  224.406 ms  224.657 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.832 ms  230.313 ms  227.181 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  224.914 ms  224.459 ms  224.763 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.476 ms  230.339 ms  227.916 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.675 ms  220.662 ms  218.214 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.207 ms  227.582 ms  227.274 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.371 ms  227.840 ms  227.577 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.317 ms  230.082 ms  230.296 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.915 ms  228.063 ms  227.772 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.867 ms  229.834 ms  227.348 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.489 ms  1.714 ms  1.423 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.155 ms  230.009 ms  229.980 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.430 ms  220.315 ms  217.734 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.359 ms  230.412 ms  230.367 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  227.941 ms  227.613 ms  227.815 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.535 ms  227.528 ms  227.564 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.077 ms  229.062 ms  228.633 ms
+12  198.32.165.56 (198.32.165.56)  228.651 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.287 ms 198.32.165.56 (198.32.165.56)  227.914 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.242 ms  231.476 ms  228.241 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.458 ms  1.415 ms  1.978 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.210 ms  229.915 ms  230.015 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.210 ms  229.915 ms  230.015 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.526 ms  1.513 ms  1.515 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.419 ms  231.075 ms  227.514 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  229.114 ms  231.445 ms  231.344 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.388 ms  229.650 ms  229.906 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  225.614 ms  218.114 ms  219.611 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.736 ms  227.977 ms  227.597 ms
+12  198.32.165.56 (198.32.165.56)  228.279 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.733 ms 198.32.165.56 (198.32.165.56)  227.715 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.847 ms  227.791 ms  227.478 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.367 ms  227.097 ms  227.785 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.824 ms  227.441 ms  227.307 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.982 ms  227.563 ms  227.454 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.769 ms  227.387 ms  229.853 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.361 ms  227.357 ms  227.584 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  230.360 ms 198.32.165.56 (198.32.165.56)  230.332 ms  227.715 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.063 ms  230.062 ms  229.876 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  224.978 ms  227.115 ms  224.641 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.549 ms  227.254 ms  227.263 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.943 ms  33.515 ms  33.324 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.723 ms  227.396 ms  230.269 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.315 ms  2.923 ms  2.893 ms
+ 7  xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.314 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.562 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.200 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.076 ms  229.694 ms  227.434 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.714 ms  33.247 ms  33.269 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.401 ms  228.344 ms  228.007 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.828 ms  230.008 ms  227.512 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.062 ms  227.646 ms  227.613 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.003 ms  229.884 ms  229.875 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.585 ms  227.537 ms  227.890 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  226.946 ms  227.015 ms  226.928 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.739 ms  227.594 ms  227.558 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  226.955 ms  224.815 ms  227.212 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  229.510 ms  228.914 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  229.962 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.843 ms  230.303 ms  227.368 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.212 ms  33.406 ms  33.715 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.609 ms  227.269 ms  227.516 ms
+ 4  137.189.192.232 (137.189.192.232)  1.278 ms  1.515 ms  1.753 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  217.764 ms  218.014 ms  218.066 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.601 ms  227.343 ms  230.131 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  217.745 ms  217.815 ms  220.238 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.649 ms  230.028 ms  227.244 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.669 ms  229.657 ms  229.940 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  230.399 ms  229.815 ms 198.32.165.56 (198.32.165.56)  227.616 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.913 ms  227.569 ms  230.012 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.815 ms  33.362 ms  33.349 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.839 ms  229.802 ms  229.818 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.453 ms  1.361 ms  1.414 ms
+ 3  137.189.192.233 (137.189.192.233)  1.341 ms  1.326 ms  1.314 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.095 ms  230.169 ms  229.653 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  3.067 ms  3.054 ms  3.014 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.781 ms  229.919 ms  227.028 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.362 ms  1.611 ms  1.815 ms
+ 4  137.189.192.232 (137.189.192.232)  41.114 ms  41.089 ms  41.052 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.840 ms  227.478 ms  227.194 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.093 ms  220.014 ms  221.043 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.748 ms  227.705 ms  227.409 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.278 ms  211.240 ms  213.814 ms
+12  re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  227.930 ms 1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  229.808 ms  227.515 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.184 ms  227.809 ms  227.776 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.464 ms  229.874 ms  227.515 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.464 ms  229.874 ms  227.515 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.824 ms  227.796 ms  227.288 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.409 ms  227.530 ms  227.486 ms
+ 4  137.189.192.232 (137.189.192.232)  1.524 ms  1.519 ms  1.515 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.786 ms  229.824 ms  227.560 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.936 ms  227.453 ms  227.896 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.929 ms  228.802 ms  230.575 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.809 ms  230.478 ms  230.531 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.405 ms  2.730 ms  2.914 ms
+ 7  xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.314 ms  218.542 ms  218.266 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.134 ms  229.869 ms  227.802 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.212 ms  229.914 ms  229.728 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.335 ms  226.918 ms  227.353 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.543 ms  1.566 ms  1.414 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.458 ms  213.914 ms  213.540 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.739 ms  227.437 ms  227.555 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  227.472 ms  227.581 ms  227.215 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.993 ms  229.589 ms  228.181 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.431 ms  227.221 ms  227.396 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.547 ms  1.514 ms  1.437 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  230.260 ms  227.320 ms  226.914 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.037 ms  227.268 ms  229.870 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.914 ms  2.907 ms  2.559 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.211 ms  220.115 ms  217.806 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.516 ms  227.475 ms  227.358 ms
+ 4  137.189.192.232 (137.189.192.232)  20.666 ms  20.623 ms  20.515 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.383 ms  227.654 ms  230.565 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.614 ms  218.220 ms  218.220 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.498 ms  229.855 ms  229.921 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  227.115 ms  226.985 ms  224.283 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.536 ms  230.369 ms  227.608 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.744 ms  227.361 ms  230.100 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.720 ms  227.993 ms  227.698 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.655 ms  230.650 ms  229.342 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.352 ms  227.582 ms  229.756 ms
+ 3  137.189.192.233 (137.189.192.233)  1.632 ms  1.615 ms  1.274 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.712 ms  227.725 ms  229.772 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.426 ms  229.900 ms  229.793 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.752 ms  227.720 ms  227.759 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.058 ms  229.941 ms  230.265 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.005 ms  227.448 ms  230.190 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  218.317 ms  220.514 ms  220.476 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.710 ms  230.096 ms  227.539 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.744 ms  227.449 ms  227.388 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.462 ms  1.407 ms  1.315 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  218.214 ms  218.201 ms  221.272 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.393 ms  230.007 ms  229.999 ms
+ 4  137.189.192.232 (137.189.192.232)  4.556 ms  4.526 ms  4.515 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.390 ms  229.999 ms  227.392 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.717 ms  227.664 ms  228.266 ms
+ 3  137.189.192.233 (137.189.192.233)  1.418 ms  1.556 ms  1.914 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.782 ms  2.815 ms  2.545 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.594 ms  213.315 ms  211.833 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.696 ms  227.420 ms  227.535 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.724 ms  230.068 ms  229.924 ms
+ 4  137.189.192.232 (137.189.192.232)  48.414 ms  48.402 ms  48.292 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.998 ms  229.683 ms  227.949 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.998 ms  227.157 ms  227.673 ms
+ 7  xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.031 ms  218.368 ms  219.214 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.547 ms  227.317 ms  229.885 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.485 ms  1.492 ms  1.415 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.314 ms  217.839 ms  217.806 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.152 ms  230.227 ms  230.192 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.648 ms  230.238 ms  229.570 ms
+ 7  xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.052 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  219.799 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.515 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.010 ms vl-2-gw.uoregon.edu (128.223.2.1)  265.215 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  227.596 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.632 ms  227.404 ms  227.613 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.464 ms  229.570 ms  227.327 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.932 ms  230.036 ms  230.026 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.441 ms  1.414 ms  1.401 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.709 ms  229.673 ms  227.686 ms
+12  1428.tengige0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.567 ms  230.015 ms re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  227.831 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.290 ms  227.412 ms  227.244 ms
+Thu Apr  7 21:34:14 UTC 2016
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.862 ms  227.926 ms  227.918 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.531 ms  230.452 ms  227.298 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.230 ms  227.254 ms  227.372 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.704 ms  227.511 ms  230.116 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  213.515 ms  213.939 ms  213.934 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.259 ms  230.444 ms  230.344 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  213.514 ms  213.558 ms  211.087 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.347 ms  227.101 ms  227.402 ms
+ 4  137.189.192.232 (137.189.192.232)  1.589 ms  1.564 ms  1.814 ms
+12  re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  230.814 ms  230.438 ms  230.769 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.004 ms  230.647 ms  227.909 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.359 ms  227.301 ms  227.363 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.798 ms  33.414 ms  33.408 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.086 ms  230.284 ms  230.242 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.236 ms  227.294 ms  227.712 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.758 ms  227.392 ms  229.877 ms
+ 4  137.189.192.232 (137.189.192.232)  3.819 ms  3.814 ms  3.791 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.324 ms  222.449 ms  222.414 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.587 ms  229.832 ms  227.567 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  227.115 ms  227.185 ms  227.357 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.349 ms  229.536 ms  229.619 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.028 ms  227.682 ms  227.964 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.697 ms  229.943 ms  228.406 ms
+ 4  137.189.192.232 (137.189.192.232)  9.857 ms  9.710 ms  9.914 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.813 ms  227.897 ms  230.003 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.306 ms  228.279 ms  229.955 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  218.174 ms  218.157 ms  218.114 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.948 ms  227.940 ms  227.881 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.668 ms  227.407 ms  227.425 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.586 ms  229.866 ms  229.809 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  235.455 ms  235.314 ms  235.299 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.005 ms  227.752 ms  227.263 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.318 ms  220.324 ms  220.314 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.615 ms  211.531 ms  213.862 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.506 ms  229.873 ms  229.834 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  5.056 ms  5.128 ms  4.614 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.045 ms  230.247 ms  230.544 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.871 ms  227.927 ms  229.955 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.517 ms  227.504 ms  230.066 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.140 ms  227.693 ms  229.858 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.702 ms  229.892 ms  227.290 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.391 ms  227.591 ms  230.162 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.649 ms  227.375 ms  227.882 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.314 ms  1.479 ms  1.467 ms
+ 3  137.189.192.233 (137.189.192.233)  1.739 ms  1.715 ms  1.678 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.945 ms  227.350 ms  229.714 ms
+ 3  137.189.192.233 (137.189.192.233)  1.214 ms  1.215 ms  1.787 ms
+ 3  137.189.192.233 (137.189.192.233)  1.214 ms  1.215 ms  1.787 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  224.614 ms  227.246 ms  224.800 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.933 ms  229.992 ms  227.136 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.001 ms  230.191 ms  227.185 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.326 ms  2.643 ms  2.614 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  225.271 ms  225.315 ms  225.266 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.688 ms  229.859 ms  229.878 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.515 ms  227.474 ms  229.659 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.515 ms  227.474 ms  229.659 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.068 ms  227.388 ms  229.645 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.618 ms  219.115 ms  217.885 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.818 ms  227.903 ms  227.910 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.282 ms  227.648 ms  230.127 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  228.094 ms  229.915 ms  229.582 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.211 ms  227.871 ms  229.985 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  227.828 ms vl-2-gw.uoregon.edu (128.223.2.1)  234.132 ms  232.814 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.181 ms  227.237 ms  229.986 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.611 ms  227.818 ms  227.784 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.840 ms  228.008 ms  228.274 ms
+Fri Apr  8 17:50:15 UTC 2016
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.766 ms  230.310 ms  230.894 ms
+ 4  137.189.192.232 (137.189.192.232)  1.716 ms  1.142 ms  1.714 ms
+12  re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  229.665 ms re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  232.614 ms re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  230.831 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  231.643 ms  232.446 ms  230.270 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  2.764 ms  2.818 ms  2.814 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  35.014 ms  34.387 ms  34.034 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.261 ms  228.435 ms  228.776 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.514 ms  33.289 ms  33.691 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  231.888 ms  231.911 ms  229.017 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.160 ms  33.415 ms  33.377 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.814 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.302 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.837 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  231.609 ms  228.380 ms  231.165 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.493 ms  229.058 ms  231.429 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.983 ms  228.072 ms  228.705 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.034 ms  227.124 ms  227.568 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.656 ms  230.305 ms  227.383 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.193 ms  228.037 ms  227.879 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.354 ms  1.478 ms  1.414 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  213.944 ms  213.515 ms  211.163 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.831 ms  227.804 ms  227.738 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.517 ms  1.509 ms  1.514 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  34.114 ms  33.331 ms  33.370 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  212.201 ms  212.203 ms  213.815 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.038 ms  229.693 ms  227.741 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.757 ms  33.614 ms  33.506 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.262 ms  227.698 ms  227.629 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.694 ms  230.123 ms  227.382 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.246 ms  1.315 ms  1.813 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.944 ms  227.642 ms  227.877 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.444 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  217.724 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.315 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.801 ms  227.330 ms  229.770 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.929 ms  230.358 ms  227.926 ms
+14  vl-2-gw.uoregon.edu (128.223.2.1)  220.923 ms  223.433 ms  225.657 ms
+15  planetlab1.cs.uoregon.edu (128.223.8.111)  220.704 ms  220.700 ms  220.904 ms
+ 6  203.188.118.114 (203.188.118.114)  2.613 ms  1.981 ms  1.997 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  184.244 ms  184.277 ms  184.143 ms
+ 7  80.77.0.181 (80.77.0.181)  2.278 ms  2.282 ms  2.514 ms
+14  * * *
+15  vl-2-gw.uoregon.edu (128.223.2.1)  192.504 ms  192.463 ms  192.468 ms
+ 6  203.188.118.114 (203.188.118.114)  128.092 ms  125.885 ms  125.872 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  183.717 ms  184.119 ms  183.812 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.614 ms  1.189 ms  1.272 ms
+ 4  137.189.192.232 (137.189.192.232)  81.715 ms  81.658 ms  81.539 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.251 ms  227.750 ms  230.164 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.655 ms  33.514 ms  33.376 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.674 ms  230.172 ms  230.138 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.586 ms  1.614 ms  1.613 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.451 ms  230.616 ms  230.573 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.704 ms  2.180 ms  2.415 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.868 ms  227.903 ms  230.091 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.306 ms  1.303 ms  1.214 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  238.130 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  227.615 ms  229.857 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.472 ms  230.007 ms  227.840 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.020 ms  227.849 ms  227.488 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.877 ms  227.477 ms  227.204 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  246.915 ms  246.615 ms  244.571 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.962 ms  229.830 ms  229.926 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.615 ms  3.527 ms  2.550 ms
+ 7  xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  217.671 ms  218.215 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.257 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.673 ms  227.770 ms  227.692 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  226.170 ms  228.394 ms  225.714 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.511 ms  230.219 ms  229.963 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  217.613 ms  218.814 ms  221.011 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.221 ms  227.610 ms  227.588 ms
+ 7  xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.112 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.415 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.148 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.667 ms  230.409 ms  230.452 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  221.014 ms  218.234 ms  218.462 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.910 ms  230.328 ms  229.992 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  231.256 ms  228.115 ms vl-2-gw.uoregon.edu (128.223.2.1)  230.234 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.770 ms  229.690 ms  230.088 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.583 ms  229.908 ms  227.558 ms
+ 3  137.189.192.233 (137.189.192.233)  1.114 ms  1.323 ms  1.603 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.943 ms  230.075 ms  230.117 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.153 ms  227.682 ms  227.679 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  245.417 ms  245.535 ms  245.014 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.422 ms  227.775 ms  227.711 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.724 ms  227.431 ms  228.127 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.425 ms  1.415 ms  1.424 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  218.674 ms  218.742 ms  218.714 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.076 ms  230.025 ms  227.371 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.808 ms  230.053 ms  227.661 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.943 ms  229.972 ms  229.960 ms
+ 3  137.189.192.233 (137.189.192.233)  1.506 ms  1.470 ms  1.915 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  219.515 ms  231.106 ms  230.985 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.956 ms  214.015 ms  211.700 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.945 ms  227.658 ms  227.538 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.105 ms  230.167 ms  230.066 ms
+12  re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  229.989 ms  227.714 ms re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  230.310 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.835 ms  227.554 ms  230.130 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.372 ms  227.353 ms  227.322 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.336 ms  228.097 ms  228.063 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.515 ms  1.526 ms  1.500 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.997 ms  227.952 ms  227.948 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  218.274 ms  220.440 ms  220.915 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.136 ms  228.038 ms  228.038 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  218.657 ms  221.414 ms  218.640 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.401 ms  230.370 ms  230.186 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.189 ms  218.332 ms  220.714 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.318 ms  227.511 ms  227.414 ms
+ 3  137.189.192.233 (137.189.192.233)  1.215 ms  1.458 ms  1.459 ms
+12  re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.472 ms re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  228.252 ms re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  229.915 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.239 ms  230.186 ms  229.908 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.491 ms  229.987 ms  227.166 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.186 ms  227.915 ms  231.339 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.469 ms  227.496 ms  227.495 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.265 ms  229.817 ms  227.791 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.283 ms  227.578 ms  230.238 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.137 ms  218.145 ms  220.514 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.386 ms  227.691 ms  230.305 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.328 ms  228.165 ms  228.215 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.328 ms  228.165 ms  228.215 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  227.843 ms  224.962 ms  224.314 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.262 ms  228.217 ms  228.149 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.623 ms  2.590 ms  3.014 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.090 ms  227.106 ms  230.051 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.690 ms  227.772 ms  228.109 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.500 ms  227.512 ms  227.876 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.356 ms  229.751 ms  229.470 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.215 ms  213.152 ms  213.477 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.391 ms  229.720 ms  229.957 ms
+Sun Apr 10 02:37:14 UTC 2016
+ 3  137.189.192.233 (137.189.192.233)  1.390 ms  1.314 ms  1.530 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.091 ms  227.335 ms  227.323 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.737 ms  227.916 ms  227.676 ms
+Sun Apr 10 03:37:14 UTC 2016
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.399 ms  2.714 ms  2.684 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.911 ms  229.815 ms  227.825 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.911 ms  229.815 ms  227.825 ms
+ 3  137.189.192.233 (137.189.192.233)  1.341 ms  1.315 ms  1.724 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.712 ms  227.672 ms  227.507 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.305 ms  227.816 ms  227.718 ms
+12  re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.814 ms re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  228.379 ms  228.322 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.979 ms  228.126 ms  227.237 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.614 ms  1.500 ms  1.541 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  220.615 ms  220.615 ms  220.590 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  227.836 ms  230.914 ms  227.515 ms
+13  vl-2-gw.uoregon.edu (128.223.2.1)  227.836 ms  230.914 ms  227.515 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.439 ms  227.461 ms  227.466 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  213.576 ms  213.714 ms  211.324 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.530 ms  229.896 ms  227.422 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.576 ms  227.672 ms  227.637 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.515 ms  220.749 ms  219.035 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.307 ms  227.304 ms  229.927 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.882 ms  229.855 ms  227.336 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  35.358 ms  34.950 ms  33.715 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  227.777 ms vl-2-gw.uoregon.edu (128.223.2.1)  227.715 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  227.748 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.837 ms  227.018 ms  229.793 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.600 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.515 ms  218.510 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.218 ms  227.334 ms  230.038 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.648 ms  230.161 ms  230.300 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.620 ms  227.191 ms  227.172 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.514 ms  220.636 ms  220.611 ms
+12  re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.168 ms re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  228.914 ms re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  230.087 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.036 ms  229.822 ms  229.815 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.036 ms  229.822 ms  229.815 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.776 ms  33.515 ms  33.491 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.182 ms  229.938 ms  230.332 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.695 ms  229.703 ms  229.882 ms
+ 4  137.189.192.232 (137.189.192.232)  1.614 ms  1.382 ms  1.370 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.215 ms  213.277 ms  211.081 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.130 ms  227.542 ms  230.060 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.419 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.614 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.349 ms
+12  re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  228.078 ms  231.988 ms  231.314 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.024 ms  227.764 ms  229.307 ms
+12  re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  228.082 ms  228.715 ms re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  232.465 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.739 ms  227.611 ms  227.632 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.157 ms  231.365 ms  227.993 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.480 ms  229.899 ms  229.830 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  211.603 ms  211.614 ms  214.109 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.478 ms  229.767 ms  227.412 ms
+ 4  137.189.192.232 (137.189.192.232)  1.414 ms  1.883 ms  1.365 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  221.614 ms  221.606 ms  217.990 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.723 ms  227.508 ms  227.683 ms
+ 3  137.189.192.233 (137.189.192.233)  1.706 ms  1.405 ms  1.414 ms
+12  re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  230.002 ms  227.364 ms re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  228.014 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.167 ms  227.343 ms  227.220 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.581 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.115 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.522 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.690 ms  229.885 ms  229.633 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.470 ms  230.104 ms  229.752 ms
+12  re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  227.315 ms  229.571 ms re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  229.986 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.627 ms  227.880 ms  227.854 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.514 ms  1.408 ms  1.474 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  213.814 ms  210.838 ms  214.115 ms
+10  et-4-0-0.110.rtr.salt.net.internet2.edu (198.71.45.19)  213.814 ms  210.838 ms  214.115 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.081 ms  227.594 ms  227.163 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.995 ms  229.741 ms  227.931 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.816 ms  227.621 ms  230.366 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.569 ms  227.924 ms  227.867 ms
+ 3  137.189.192.233 (137.189.192.233)  1.630 ms  1.571 ms  1.814 ms
+12  re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  228.573 ms re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  230.029 ms re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  228.415 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.071 ms  230.130 ms  227.456 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.818 ms  229.986 ms  227.651 ms
+11  et-5-0-0.113.rtr.seat.net.internet2.edu (198.71.45.25)  227.120 ms  227.263 ms  224.615 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.619 ms  227.446 ms  227.774 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.987 ms  227.230 ms  227.650 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.814 ms  33.318 ms  33.681 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.855 ms  229.834 ms  227.088 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.758 ms  1.414 ms  1.378 ms
+12  re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  228.505 ms  230.114 ms re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  228.058 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.847 ms  227.425 ms  227.312 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.815 ms  230.032 ms  227.776 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.815 ms  230.032 ms  227.776 ms
+ 6  e2-4.r2.tpe.asgc.net (117.103.111.217)  33.647 ms  33.272 ms  33.615 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.186 ms  230.041 ms  229.858 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.948 ms  227.449 ms  227.156 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.341 ms  227.415 ms  228.679 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.341 ms  227.415 ms  228.679 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  217.878 ms  220.615 ms  220.586 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.119 ms  229.489 ms  230.089 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.415 ms  1.514 ms  1.536 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.415 ms  1.514 ms  1.536 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.947 ms  227.386 ms  229.611 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  228.110 ms  227.323 ms  229.908 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  231.897 ms  227.346 ms  227.495 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  218.157 ms  218.215 ms  220.528 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.916 ms  228.077 ms  227.662 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.652 ms  229.781 ms  227.526 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.544 ms  227.576 ms  227.574 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.297 ms  229.983 ms  230.064 ms
+ 4  137.189.192.232 (137.189.192.232)  136.372 ms  136.314 ms  136.325 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.817 ms  229.805 ms  228.013 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.830 ms  230.377 ms  227.463 ms
+ 7  so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.215 ms xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.077 ms so-1-0-0.r0.chi.asgc.net (117.103.111.209)  220.197 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.624 ms  227.595 ms  229.874 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.329 ms  227.592 ms  227.571 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.343 ms  227.508 ms  230.309 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.252 ms  227.815 ms  227.549 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.252 ms  227.815 ms  227.549 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.470 ms  230.053 ms  229.962 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.672 ms  228.215 ms  228.048 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.672 ms  228.215 ms  228.048 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  1.644 ms  1.619 ms  1.614 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  223.904 ms  227.051 ms  223.815 ms
+ 9  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  223.803 ms  227.322 ms  227.314 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.975 ms  230.218 ms  230.580 ms
+ 7  xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.414 ms  218.237 ms  218.363 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.449 ms  229.754 ms  229.716 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.095 ms  227.158 ms  227.652 ms
+ 5  asgcnet1-RGE.hkix.net (123.255.91.53)  2.515 ms  2.785 ms  2.464 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.074 ms  230.258 ms  230.238 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.849 ms  227.448 ms  230.128 ms
+ 8  i2-asgc.r0.chi.asgc.net (117.103.111.153)  220.914 ms  220.773 ms  218.328 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.833 ms  230.801 ms  227.551 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.330 ms  1.615 ms  1.209 ms
+12  re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  228.115 ms re-seat.uo.vl-1428.ten-0-1-0-1.uonet10-gw.oregon-gigapop.net (198.32.165.60)  230.290 ms re-seat.uo.vl-1427.ten-0-1-0-1.uonet9-gw.oregon-gigapop.net (198.32.165.56)  230.381 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.430 ms  230.272 ms  227.731 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  229.965 ms  227.970 ms  229.864 ms
+ 2  itsc-99253.ie.cuhk.edu.hk (137.189.99.253)  9.224 ms  9.214 ms  9.028 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.073 ms  229.816 ms  228.144 ms
+ 7  xe-9-3-0.r0.chi.asgc.net (117.103.111.205)  218.331 ms  218.258 ms  218.215 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.343 ms  227.306 ms  227.558 ms
+ 1  router980-3.ie.cuhk.edu.hk (137.189.98.243)  1.462 ms  1.414 ms  1.375 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.568 ms  227.186 ms  227.623 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  230.072 ms  227.471 ms  229.759 ms
+13  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  230.311 ms  227.514 ms  227.439 ms
+14  planetlab1.cs.uoregon.edu (128.223.8.111)  227.419 ms  227.539 ms  227.173 ms

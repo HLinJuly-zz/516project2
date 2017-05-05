@@ -1,0 +1,1782 @@
+Thu Mar 31 02:23:50 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.849/106.054/106.203/0.381 ms
+Thu Mar 31 02:53:54 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4107ms
+rtt min/avg/max/mdev = 106.024/106.212/106.670/0.234 ms
+Thu Mar 31 03:22:53 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.827/106.004/106.139/0.371 ms
+Thu Mar 31 03:23:59 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4112ms
+rtt min/avg/max/mdev = 105.811/106.007/106.229/0.380 ms
+Thu Mar 31 03:52:57 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.910/106.374/106.967/0.599 ms
+Thu Mar 31 03:54:03 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4112ms
+rtt min/avg/max/mdev = 105.894/105.997/106.125/0.087 ms
+Thu Mar 31 04:23:01 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4107ms
+rtt min/avg/max/mdev = 106.105/106.357/106.970/0.426 ms
+Thu Mar 31 04:24:07 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.870/106.042/106.222/0.312 ms
+Thu Mar 31 04:53:06 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4109ms
+rtt min/avg/max/mdev = 105.925/106.180/106.412/0.165 ms
+Thu Mar 31 04:54:11 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.912/106.146/106.254/0.377 ms
+Thu Mar 31 05:23:10 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4109ms
+rtt min/avg/max/mdev = 105.745/105.974/106.137/0.386 ms
+Thu Mar 31 05:24:15 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4113ms
+rtt min/avg/max/mdev = 105.799/105.985/106.095/0.370 ms
+Thu Mar 31 05:53:14 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4109ms
+rtt min/avg/max/mdev = 105.736/105.948/106.145/0.435 ms
+Thu Mar 31 05:54:19 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.997/106.036/106.128/0.414 ms
+Thu Mar 31 06:23:18 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4108ms
+rtt min/avg/max/mdev = 106.119/106.191/106.261/0.211 ms
+Thu Mar 31 06:24:23 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.952/106.149/106.437/0.184 ms
+Thu Mar 31 06:53:23 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.853/105.928/106.011/0.296 ms
+Thu Mar 31 06:54:28 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.667/105.906/106.113/0.332 ms
+Thu Mar 31 07:23:27 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4106ms
+rtt min/avg/max/mdev = 105.905/106.141/106.548/0.363 ms
+Thu Mar 31 07:24:32 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 106.042/106.197/106.397/0.329 ms
+Thu Mar 31 07:53:32 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.825/105.909/106.031/0.422 ms
+Thu Mar 31 07:54:36 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.788/105.887/106.084/0.230 ms
+Thu Mar 31 08:23:36 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.654/105.811/106.089/0.392 ms
+Thu Mar 31 08:24:40 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.738/106.118/106.969/0.486 ms
+Thu Mar 31 08:53:40 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4107ms
+rtt min/avg/max/mdev = 105.683/105.891/106.099/0.391 ms
+Thu Mar 31 08:54:44 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4106ms
+rtt min/avg/max/mdev = 105.660/106.133/106.728/0.573 ms
+Thu Mar 31 09:23:45 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.849/106.023/106.179/0.309 ms
+Thu Mar 31 09:24:49 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.720/105.978/106.223/0.400 ms
+Thu Mar 31 09:53:49 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.729/105.868/105.982/0.109 ms
+Thu Mar 31 09:54:53 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.777/105.926/106.257/0.266 ms
+Thu Mar 31 10:23:53 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4109ms
+rtt min/avg/max/mdev = 105.880/105.917/105.953/0.207 ms
+Thu Mar 31 10:24:57 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.740/105.942/106.065/0.436 ms
+Thu Mar 31 10:53:57 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=107 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4107ms
+rtt min/avg/max/mdev = 105.816/106.143/107.052/0.460 ms
+Thu Mar 31 10:55:01 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4108ms
+rtt min/avg/max/mdev = 105.810/105.947/106.059/0.367 ms
+Thu Mar 31 11:24:02 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.845/105.895/105.984/0.295 ms
+Thu Mar 31 11:25:05 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=107 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4109ms
+rtt min/avg/max/mdev = 105.801/106.388/107.680/0.724 ms
+Thu Mar 31 11:54:06 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=107 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 106.106/106.447/107.107/0.511 ms
+Thu Mar 31 11:55:09 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4109ms
+rtt min/avg/max/mdev = 105.854/105.923/106.028/0.060 ms
+Thu Mar 31 12:24:10 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.933/106.126/106.386/0.443 ms
+Thu Mar 31 12:25:13 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=108 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.850/106.554/108.586/1.047 ms
+Thu Mar 31 12:54:14 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.877/106.186/106.455/0.254 ms
+Thu Mar 31 12:55:17 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.836/106.225/106.955/0.383 ms
+Thu Mar 31 13:24:19 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4112ms
+rtt min/avg/max/mdev = 105.982/106.343/106.668/0.423 ms
+Thu Mar 31 13:25:21 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4107ms
+rtt min/avg/max/mdev = 105.959/106.288/106.904/0.321 ms
+Thu Mar 31 13:54:23 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 106.024/106.140/106.263/0.301 ms
+Thu Mar 31 13:55:26 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=105 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 105.929/106.070/106.219/0.428 ms
+Thu Mar 31 14:24:27 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=107 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=108 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=107 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=107 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4112ms
+rtt min/avg/max/mdev = 106.991/107.344/108.397/0.571 ms
+Thu Mar 31 14:25:30 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=107 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=107 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=107 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4112ms
+rtt min/avg/max/mdev = 106.905/107.068/107.270/0.434 ms
+Thu Mar 31 14:54:32 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=107 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.883/106.355/107.772/0.801 ms
+Thu Mar 31 14:55:34 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4112ms
+rtt min/avg/max/mdev = 106.093/106.332/106.518/0.383 ms
+Thu Mar 31 15:24:36 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4112ms
+rtt min/avg/max/mdev = 106.031/106.246/106.577/0.463 ms
+Thu Mar 31 15:25:38 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4110ms
+rtt min/avg/max/mdev = 106.067/106.221/106.525/0.390 ms
+Thu Mar 31 15:54:40 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=105 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 105.929/106.209/106.336/0.252 ms
+Thu Mar 31 15:55:42 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=106 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=106 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4111ms
+rtt min/avg/max/mdev = 106.107/106.248/106.405/0.372 ms
+Thu Mar 31 16:24:44 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.151/121.262/121.385/0.326 ms
+Thu Mar 31 16:25:46 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4120ms
+rtt min/avg/max/mdev = 121.068/121.544/122.193/0.490 ms
+Thu Mar 31 16:54:49 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.021/121.740/122.447/0.617 ms
+Thu Mar 31 16:55:51 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 120.950/121.176/121.343/0.344 ms
+Thu Mar 31 17:24:53 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=123 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=122 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4133ms
+rtt min/avg/max/mdev = 122.240/122.780/123.390/0.372 ms
+Thu Mar 31 17:25:55 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=122 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4129ms
+rtt min/avg/max/mdev = 120.901/121.852/122.847/0.795 ms
+Thu Mar 31 17:54:57 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4123ms
+rtt min/avg/max/mdev = 121.096/121.241/121.311/0.233 ms
+Thu Mar 31 17:55:59 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=122 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.128/121.444/122.074/0.460 ms
+Thu Mar 31 18:25:02 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=124 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.159/122.056/124.668/1.356 ms
+Thu Mar 31 18:26:03 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 121.049/121.235/121.601/0.301 ms
+Thu Mar 31 18:55:06 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.130/121.453/121.661/0.364 ms
+Thu Mar 31 18:56:07 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=123 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.006/121.794/123.757/1.007 ms
+Thu Mar 31 19:25:10 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.206/121.289/121.445/0.087 ms
+Thu Mar 31 19:26:11 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4122ms
+rtt min/avg/max/mdev = 121.057/121.225/121.430/0.463 ms
+Thu Mar 31 19:55:15 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.040/121.192/121.358/0.251 ms
+Thu Mar 31 19:56:16 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.090/121.385/121.885/0.436 ms
+Thu Mar 31 20:25:19 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=122 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.142/121.472/122.155/0.575 ms
+Thu Mar 31 20:26:20 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.024/121.274/121.668/0.321 ms
+Thu Mar 31 20:55:23 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.173/121.330/121.564/0.337 ms
+Thu Mar 31 20:56:24 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.086/121.291/121.574/0.470 ms
+Thu Mar 31 21:25:27 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4122ms
+rtt min/avg/max/mdev = 121.361/121.639/121.823/0.426 ms
+Thu Mar 31 21:26:28 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=129 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=122 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4129ms
+rtt min/avg/max/mdev = 121.168/123.306/129.895/3.353 ms
+Thu Mar 31 21:55:32 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 121.111/121.289/121.485/0.404 ms
+Thu Mar 31 21:56:32 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.113/121.472/121.784/0.312 ms
+Thu Mar 31 22:25:36 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 121.107/121.271/121.584/0.184 ms
+Thu Mar 31 22:26:36 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 120.936/121.161/121.626/0.457 ms
+Thu Mar 31 22:55:40 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 121.001/121.461/122.506/0.693 ms
+Thu Mar 31 22:56:40 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4121ms
+rtt min/avg/max/mdev = 121.049/121.229/121.389/0.252 ms
+Thu Mar 31 23:25:44 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.114/121.309/121.823/0.463 ms
+Thu Mar 31 23:26:45 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.207/121.556/122.466/0.560 ms
+Thu Mar 31 23:55:49 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.125/121.300/121.437/0.253 ms
+Thu Mar 31 23:56:49 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.154/121.503/122.461/0.576 ms
+Fri Apr  1 00:25:53 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 120.956/121.680/122.524/0.717 ms
+Fri Apr  1 00:26:53 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=122 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.006/121.458/122.012/0.632 ms
+Fri Apr  1 00:55:57 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4121ms
+rtt min/avg/max/mdev = 121.017/121.172/121.444/0.411 ms
+Fri Apr  1 00:56:57 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=122 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 120.992/121.613/122.545/0.778 ms
+Fri Apr  1 01:26:02 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.197/121.674/122.485/0.582 ms
+Fri Apr  1 01:27:01 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.130/121.275/121.357/0.449 ms
+Fri Apr  1 01:56:06 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.069/121.654/122.421/0.625 ms
+Fri Apr  1 01:57:05 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 121.008/121.496/122.775/0.647 ms
+Fri Apr  1 02:26:10 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4121ms
+rtt min/avg/max/mdev = 121.151/121.453/122.350/0.452 ms
+Fri Apr  1 02:27:09 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.114/121.240/121.448/0.398 ms
+Fri Apr  1 02:56:15 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.087/121.256/121.388/0.455 ms
+Fri Apr  1 02:57:13 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=122 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4123ms
+rtt min/avg/max/mdev = 121.226/121.953/122.843/0.731 ms
+Fri Apr  1 03:26:19 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 120.973/121.177/121.307/0.455 ms
+Fri Apr  1 03:27:18 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 120.813/121.031/121.264/0.473 ms
+Fri Apr  1 03:56:23 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 121.036/121.194/121.396/0.160 ms
+Fri Apr  1 03:57:22 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 120.941/121.627/122.789/0.735 ms
+Fri Apr  1 04:26:27 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 120.872/121.087/121.418/0.182 ms
+Fri Apr  1 04:27:26 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 120.859/121.721/122.676/0.829 ms
+Fri Apr  1 04:56:32 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=123 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 120.929/121.558/123.052/0.851 ms
+Fri Apr  1 04:57:30 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.094/121.359/121.628/0.437 ms
+Fri Apr  1 05:26:36 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.040/121.182/121.330/0.331 ms
+Fri Apr  1 05:27:34 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.113/121.236/121.513/0.145 ms
+Fri Apr  1 05:56:41 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.044/121.410/122.403/0.590 ms
+Fri Apr  1 05:57:38 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 120.918/121.097/121.340/0.143 ms
+Fri Apr  1 06:26:45 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4123ms
+rtt min/avg/max/mdev = 121.030/121.123/121.205/0.227 ms
+Fri Apr  1 06:27:42 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4120ms
+rtt min/avg/max/mdev = 120.947/121.256/122.160/0.463 ms
+Fri Apr  1 06:56:49 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 120.972/121.085/121.255/0.398 ms
+Fri Apr  1 06:57:47 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 120.879/121.235/121.758/0.492 ms
+Fri Apr  1 07:26:53 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 120.868/121.264/122.290/0.680 ms
+Fri Apr  1 07:27:51 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 120.964/121.147/121.265/0.398 ms
+Fri Apr  1 07:56:58 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 120.902/121.235/121.586/0.239 ms
+Fri Apr  1 07:57:55 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 120.943/121.156/121.446/0.471 ms
+Fri Apr  1 08:27:02 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 120.825/120.976/121.180/0.115 ms
+Fri Apr  1 08:27:59 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4129ms
+rtt min/avg/max/mdev = 120.837/121.402/122.903/0.863 ms
+Fri Apr  1 08:57:07 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 121.025/121.622/122.438/0.592 ms
+Fri Apr  1 08:58:03 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 120.873/121.210/121.594/0.500 ms
+Fri Apr  1 09:27:11 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 120.862/120.939/121.081/0.320 ms
+Fri Apr  1 09:28:07 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 120.929/121.051/121.163/0.234 ms
+Fri Apr  1 09:57:15 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 120.869/120.990/121.101/0.091 ms
+Fri Apr  1 09:58:11 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 120.868/121.423/122.493/0.648 ms
+Fri Apr  1 10:27:19 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=122 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4122ms
+rtt min/avg/max/mdev = 121.061/121.663/122.487/0.527 ms
+Fri Apr  1 10:28:15 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4122ms
+rtt min/avg/max/mdev = 120.936/121.042/121.168/0.388 ms
+Fri Apr  1 10:57:24 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=122 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4128ms
+rtt min/avg/max/mdev = 120.884/121.426/122.352/0.494 ms
+Fri Apr  1 10:58:20 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.007/121.646/122.449/0.684 ms
+Fri Apr  1 11:27:28 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.000/121.143/121.368/0.161 ms
+Fri Apr  1 11:28:24 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 120.899/121.289/122.300/0.614 ms
+Fri Apr  1 11:57:32 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.001/121.198/121.323/0.332 ms
+Fri Apr  1 11:58:28 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.087/121.822/122.905/0.788 ms
+Fri Apr  1 12:27:36 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=120 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 120.962/121.172/121.415/0.343 ms
+Fri Apr  1 12:28:32 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.006/121.242/121.569/0.191 ms
+Fri Apr  1 12:57:41 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=123 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.064/121.812/123.829/1.082 ms
+Fri Apr  1 12:58:36 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 121.033/121.217/121.401/0.258 ms
+Fri Apr  1 13:27:45 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4128ms
+rtt min/avg/max/mdev = 121.464/121.639/121.878/0.265 ms
+Fri Apr  1 13:28:40 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 121.052/121.535/122.614/0.564 ms
+Fri Apr  1 13:57:49 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4122ms
+rtt min/avg/max/mdev = 121.105/121.361/121.646/0.363 ms
+Fri Apr  1 13:58:44 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.128/121.428/122.384/0.480 ms
+Fri Apr  1 14:27:54 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.141/121.478/121.796/0.491 ms
+Fri Apr  1 14:28:48 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=123 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.186/121.987/123.045/0.766 ms
+Fri Apr  1 14:57:58 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=123 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4128ms
+rtt min/avg/max/mdev = 121.224/121.969/123.182/0.811 ms
+Fri Apr  1 14:58:53 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 121.129/121.338/121.641/0.180 ms
+Fri Apr  1 15:28:02 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 121.094/121.298/121.575/0.283 ms
+Fri Apr  1 15:28:57 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 120.997/121.176/121.297/0.397 ms
+Fri Apr  1 15:58:06 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4122ms
+rtt min/avg/max/mdev = 121.175/121.395/121.668/0.289 ms
+Fri Apr  1 15:59:01 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 121.109/121.334/122.051/0.422 ms
+Fri Apr  1 16:28:11 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 120.903/121.122/121.314/0.340 ms
+Fri Apr  1 16:29:06 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.132/121.391/121.711/0.439 ms
+Fri Apr  1 16:58:15 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 121.033/121.275/121.564/0.190 ms
+Fri Apr  1 16:59:10 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4124ms
+rtt min/avg/max/mdev = 121.054/121.253/121.746/0.338 ms
+Fri Apr  1 17:28:19 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.184/121.426/121.692/0.354 ms
+Fri Apr  1 17:29:14 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=123 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.175/121.728/123.224/0.877 ms
+Fri Apr  1 17:58:24 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.205/121.485/122.169/0.470 ms
+Fri Apr  1 17:59:18 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=120 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 120.925/121.221/121.432/0.279 ms
+Fri Apr  1 18:28:28 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.044/121.265/121.577/0.182 ms
+Fri Apr  1 18:29:23 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4127ms
+rtt min/avg/max/mdev = 121.309/121.571/121.824/0.217 ms
+Fri Apr  1 18:58:32 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 121.081/121.366/121.907/0.369 ms
+Fri Apr  1 18:59:27 UTC 2016
+PING planetlab4.ethz.ch (192.33.90.69) 56(84) bytes of data.
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=1 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=2 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=3 ttl=53 time=121 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=4 ttl=53 time=122 ms
+64 bytes from planetlab4.ethz.ch (192.33.90.69): icmp_seq=5 ttl=53 time=121 ms
+
+--- planetlab4.ethz.ch ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4126ms
+rtt min/avg/max/mdev = 121.189/121.596/122.310/0.550 ms

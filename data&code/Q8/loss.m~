@@ -1,0 +1,13 @@
+f1=load('loss1A.txt');
+range = 0:1:5;
+N1=hist(f1,range);
+cdf1=cumsum(N1)/sum(N1);
+c1=plot(range, cdf1,'b');
+set(c1,'Color','y');
+hold on;
+f2=load('loss2A.txt');
+
+N2=hist(f2,range);
+cdf2=cumsum(N2)/sum(N2);
+plot(range, cdf2,'b');
+hold off;

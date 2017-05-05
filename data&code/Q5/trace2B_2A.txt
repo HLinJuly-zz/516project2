@@ -1,0 +1,533 @@
+Thu Mar 31 03:47:42 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.338 ms  1.071 ms  1.032 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.874 ms  7.558 ms  5.903 ms
+ 3  128.109.9.145 (128.109.9.145)  6.046 ms  5.964 ms  6.044 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.559 ms  11.574 ms  11.528 ms
+ 5  internet2.mx1.lon.uk.geant.net (62.40.124.44)  87.301 ms  86.569 ms  86.607 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  91.674 ms  91.918 ms  91.887 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.595 ms  104.788 ms  104.460 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  114.512 ms  115.321 ms  114.772 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  106.064 ms  105.969 ms  106.131 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  105.808 ms  105.786 ms  105.764 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  106.127 ms  106.050 ms  106.140 ms
+12  planetlab4.ethz.ch (192.33.90.69) 106.138 ms  105.759 ms  105.652 ms
+Thu Mar 31 04:47:44 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.149 ms  1.044 ms  1.634 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.758 ms  5.927 ms  5.697 ms
+ 3  128.109.9.145 (128.109.9.145)  5.769 ms  5.853 ms  5.820 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.692 ms  11.609 ms  11.414 ms
+ 5  internet2.mx1.lon.uk.geant.net (62.40.124.44)  86.092 ms  85.983 ms  85.965 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  91.692 ms  91.641 ms  91.962 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.554 ms  104.447 ms  104.371 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  114.400 ms  115.241 ms  114.441 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  106.191 ms  106.067 ms  107.113 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  136.856 ms  105.978 ms  105.681 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  106.107 ms  106.474 ms  106.137 ms
+12  planetlab4.ethz.ch (192.33.90.69)  105.954 ms  105.847 ms  105.680 ms
+Thu Mar 31 05:47:45 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  2.605 ms  1.829 ms  1.192 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.694 ms  6.523 ms  5.854 ms
+ 3  128.109.9.145 (128.109.9.145)  5.846 ms  7.509 ms  6.681 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.326 ms  11.603 ms  11.708 ms
+ 5  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  86.253 ms  86.055 ms  86.245 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  91.619 ms  91.709 ms  91.515 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.605 ms  104.698 ms  104.633 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  117.472 ms  115.412 ms  115.185 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  106.168 ms  106.156 ms  106.344 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  178.236 ms  105.744 ms  105.926 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  106.200 ms  105.959 ms  105.961 ms
+12  planetlab4.ethz.ch (192.33.90.69)  106.053 ms  106.060 ms  105.879 ms
+Thu Mar 31 06:47:46 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.748 ms  1.687 ms  1.053 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.832 ms  5.982 ms  5.899 ms
+ 3  128.109.9.145 (128.109.9.145)  5.909 ms  7.128 ms  7.269 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.488 ms  12.129 ms  11.231 ms
+ 5  internet2.mx1.lon.uk.geant.net (62.40.124.44)  85.935 ms  85.898 ms  86.104 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  91.615 ms  91.743 ms  91.865 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.559 ms  104.936 ms  104.432 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  114.364 ms  114.226 ms  118.211 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  106.283 ms  106.256 ms  106.391 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  105.907 ms  139.983 ms  139.202 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  105.919 ms  106.084 ms  106.084 ms
+12  planetlab4.ethz.ch (192.33.90.69)  105.944 ms  105.796 ms  105.760 ms
+Thu Mar 31 07:47:47 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.756 ms  1.665 ms  1.041 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.318 ms  6.329 ms  5.820 ms
+ 3  128.109.9.145 (128.109.9.145)  5.877 ms  5.871 ms  6.700 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.395 ms  11.358 ms  11.315 ms
+ 5  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  86.328 ms  86.880 ms  86.066 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  91.896 ms  91.623 ms  92.038 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.597 ms  104.280 ms  104.461 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  115.760 ms  115.061 ms  116.840 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  106.885 ms  105.935 ms  106.161 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  105.593 ms  139.280 ms  138.345 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  105.915 ms  106.024 ms  106.202 ms
+12  planetlab4.ethz.ch (192.33.90.69)  105.784 ms  105.929 ms  107.131 ms
+Thu Mar 31 08:47:48 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.187 ms  1.047 ms  1.030 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.059 ms  5.813 ms  6.035 ms
+ 3  128.109.9.145 (128.109.9.145)  5.688 ms  5.766 ms  5.985 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.366 ms  11.372 ms  11.389 ms
+ 5  internet2.mx1.lon.uk.geant.net (62.40.124.44)  85.929 ms  86.069 ms  86.570 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  91.559 ms  91.791 ms  91.717 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.376 ms  104.512 ms  105.115 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  117.063 ms  115.455 ms  115.744 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  106.072 ms  105.922 ms  106.103 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  128.394 ms  108.695 ms  107.675 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  105.965 ms  105.804 ms  105.950 ms
+12  planetlab4.ethz.ch (192.33.90.69)  105.806 ms  105.789 ms  105.774 ms
+Thu Mar 31 09:47:49 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.684 ms  1.040 ms  1.094 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.954 ms  5.752 ms  5.961 ms
+ 3  128.109.9.145 (128.109.9.145)  5.830 ms  6.118 ms  5.713 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.278 ms  11.172 ms  11.200 ms
+ 5  internet2.mx1.lon.uk.geant.net (62.40.124.44)  85.941 ms  86.173 ms  85.965 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  91.557 ms  91.725 ms  91.574 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.267 ms  104.222 ms  104.313 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  115.656 ms  116.387 ms  115.564 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  105.849 ms  105.987 ms  107.012 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  105.667 ms  105.781 ms  105.682 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  105.885 ms  105.824 ms  106.509 ms
+12  planetlab4.ethz.ch (192.33.90.69)  105.719 ms  105.955 ms  105.648 ms
+Thu Mar 31 10:47:50 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.195 ms  1.658 ms  1.662 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.904 ms  5.860 ms  5.858 ms
+ 3  128.109.9.145 (128.109.9.145)  5.719 ms  5.758 ms  7.326 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.575 ms  11.355 ms  11.291 ms
+ 5  internet2.mx1.lon.uk.geant.net (62.40.124.44)  86.323 ms  87.024 ms  85.818 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  91.663 ms  91.789 ms  91.970 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.318 ms  104.267 ms  105.219 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  116.219 ms  115.317 ms  116.285 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  106.628 ms  107.235 ms  106.321 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  105.762 ms  106.899 ms  105.743 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  105.888 ms  105.887 ms  106.525 ms
+12  planetlab4.ethz.ch (192.33.90.69)  105.771 ms  105.673 ms  105.683 ms
+Thu Mar 31 11:47:51 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.785 ms  1.055 ms  1.647 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.891 ms  5.814 ms  7.386 ms
+ 3  128.109.9.145 (128.109.9.145)  5.858 ms  6.339 ms  6.265 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.273 ms  11.224 ms  11.703 ms
+ 5  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  86.069 ms  86.239 ms  85.920 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  91.603 ms  92.041 ms  92.095 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.404 ms  104.345 ms  104.381 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  114.656 ms  114.404 ms  115.612 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  105.916 ms  106.005 ms  106.187 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  105.810 ms  105.707 ms  105.880 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  106.017 ms  106.080 ms  106.234 ms
+12  planetlab4.ethz.ch (192.33.90.69)  106.474 ms  106.067 ms  105.865 ms
+Thu Mar 31 12:47:52 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.158 ms  1.066 ms  1.040 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.935 ms  5.821 ms  5.909 ms
+ 3  128.109.9.145 (128.109.9.145)  5.836 ms  5.971 ms  5.939 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.481 ms  11.665 ms  11.577 ms
+ 5  internet2.mx1.lon.uk.geant.net (62.40.124.44)  85.913 ms  86.339 ms  86.188 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  92.039 ms  92.037 ms  92.085 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.712 ms  104.777 ms  104.443 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  115.731 ms  115.275 ms  114.445 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  106.214 ms  106.269 ms  107.112 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  106.265 ms  105.917 ms  105.925 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  106.117 ms  105.881 ms  105.964 ms
+12  planetlab4.ethz.ch (192.33.90.69)  105.900 ms  105.955 ms  105.801 ms
+Thu Mar 31 13:47:53 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.227 ms  1.046 ms  1.032 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.009 ms  6.457 ms  5.791 ms
+ 3  128.109.9.145 (128.109.9.145)  5.862 ms  5.849 ms  6.282 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.752 ms  11.866 ms  12.186 ms
+ 5  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  86.312 ms  86.501 ms  85.942 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  91.832 ms  91.740 ms  91.818 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.370 ms  104.769 ms  104.631 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  115.689 ms  115.199 ms  115.953 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  106.154 ms  106.253 ms  106.390 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  109.029 ms  105.993 ms  105.796 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  106.121 ms  106.047 ms  106.187 ms
+12  planetlab4.ethz.ch (192.33.90.69)  106.171 ms  105.883 ms  105.840 ms
+Thu Mar 31 14:47:54 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.509 ms  1.084 ms  1.143 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.755 ms  6.072 ms  7.812 ms
+ 3  128.109.9.145 (128.109.9.145)  6.970 ms  6.019 ms  5.806 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.548 ms  11.709 ms  12.453 ms
+ 5  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  86.722 ms  85.965 ms  86.303 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  91.901 ms  91.939 ms  91.704 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.890 ms  104.505 ms  104.687 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  115.632 ms  115.139 ms  115.904 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  106.274 ms  107.435 ms  106.797 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  105.866 ms  105.903 ms  110.717 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  105.981 ms  106.086 ms  106.103 ms
+12  planetlab4.ethz.ch (192.33.90.69)  105.787 ms  106.079 ms  106.564 ms
+Thu Mar 31 15:47:55 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  3.044 ms  1.137 ms  1.056 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.906 ms  5.724 ms  5.748 ms
+ 3  128.109.9.145 (128.109.9.145)  6.051 ms  5.848 ms  5.951 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.766 ms  11.277 ms  11.519 ms
+ 5  internet2.mx1.lon.uk.geant.net (62.40.124.44)  86.208 ms  86.121 ms  86.252 ms
+ 6  ae0.mx1.par.fr.geant.net (62.40.98.77)  93.107 ms  92.940 ms  92.052 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.153)  104.791 ms  104.808 ms  104.793 ms
+ 8  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  114.645 ms  115.867 ms  115.669 ms
+ 9  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  106.606 ms  106.276 ms  106.240 ms
+10  swiEZ1-P3.switch.ch (130.59.36.33)  125.745 ms  143.070 ms  142.134 ms
+11  rou-open-net-switch.ethz.ch (192.33.92.161)  106.486 ms  106.182 ms  109.571 ms
+12  planetlab4.ethz.ch (192.33.90.69)  105.756 ms  105.776 ms  105.923 ms
+Thu Mar 31 16:47:57 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.131 ms  1.094 ms  1.171 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.991 ms  5.998 ms  5.797 ms
+ 3  128.109.9.145 (128.109.9.145)  7.089 ms  5.968 ms  6.863 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.695 ms  11.450 ms  11.565 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  111.381 ms  120.764 ms  121.043 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  119.914 ms  119.648 ms  110.296 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  129.906 ms  121.212 ms  120.690 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  111.928 ms  108.604 ms  111.740 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  194.444 ms  193.532 ms  192.682 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  121.431 ms  111.644 ms  121.536 ms
+11  planetlab4.ethz.ch (192.33.90.69)  111.597 ms  111.382 ms  108.356 ms
+Thu Mar 31 17:48:03 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  2.545 ms  3.677 ms  2.926 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.944 ms  6.540 ms  7.075 ms
+ 3  128.109.9.145 (128.109.9.145)  5.825 ms  5.856 ms  5.776 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.670 ms  12.433 ms  12.050 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  108.136 ms  108.566 ms  120.825 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  106.951 ms  120.708 ms  107.259 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  121.276 ms  121.314 ms  118.485 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  108.878 ms  108.910 ms  111.667 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  108.144 ms  122.174 ms  109.574 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  108.809 ms  111.616 ms  121.094 ms
+11  planetlab4.ethz.ch (192.33.90.69)  122.211 ms  111.368 ms  108.302 ms
+Thu Mar 31 18:48:04 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.231 ms  1.060 ms  1.040 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.446 ms  6.811 ms  5.989 ms
+ 3  128.109.9.145 (128.109.9.145)  7.232 ms  5.755 ms  7.538 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.651 ms  11.411 ms  11.600 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  121.087 ms  108.433 ms  108.142 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  110.432 ms  107.200 ms  119.969 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  129.675 ms  120.844 ms  121.645 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  121.861 ms  109.583 ms  112.286 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  196.167 ms  191.760 ms  190.675 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  110.567 ms  111.809 ms  111.822 ms
+11  planetlab4.ethz.ch (192.33.90.69)  122.090 ms  112.338 ms  121.069 ms
+Thu Mar 31 19:48:05 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.207 ms  1.679 ms  2.858 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  7.173 ms  6.179 ms  5.773 ms
+ 3  128.109.9.145 (128.109.9.145)  6.007 ms  5.939 ms  6.994 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  14.324 ms  13.493 ms  13.212 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  112.221 ms  108.867 ms  112.650 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  119.870 ms  110.168 ms  120.482 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  124.161 ms  123.894 ms  131.690 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  122.224 ms  109.206 ms  112.677 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  120.942 ms  111.570 ms  113.568 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  121.128 ms  113.001 ms  111.707 ms
+11  planetlab4.ethz.ch (192.33.90.69)  111.473 ms  111.462 ms  108.464 ms
+Thu Mar 31 20:48:05 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.237 ms  1.053 ms  1.054 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.076 ms  5.943 ms  6.822 ms
+ 3  128.109.9.145 (128.109.9.145)  5.984 ms  6.119 ms  5.770 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.823 ms  11.491 ms  11.455 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  121.388 ms  111.756 ms  121.578 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  120.297 ms  110.405 ms  110.552 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  120.285 ms  118.750 ms  120.125 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  111.959 ms  111.960 ms  108.469 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  108.219 ms  111.256 ms  111.353 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  120.982 ms  108.529 ms  111.895 ms
+11  planetlab4.ethz.ch (192.33.90.69)  108.625 ms  111.490 ms  108.619 ms
+Thu Mar 31 21:48:06 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.255 ms  1.080 ms  1.054 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.068 ms  6.229 ms  5.977 ms
+ 3  128.109.9.145 (128.109.9.145)  6.186 ms  5.834 ms  5.783 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.869 ms  11.735 ms  11.691 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  121.096 ms  120.803 ms  107.992 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  119.803 ms  120.732 ms  107.771 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  120.136 ms  131.138 ms  130.708 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  122.402 ms  109.505 ms  108.662 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  109.709 ms  108.441 ms  121.570 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  111.816 ms  121.280 ms  121.654 ms
+11  planetlab4.ethz.ch (192.33.90.69)  121.369 ms  112.344 ms  109.545 ms
+Thu Mar 31 22:48:07 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  2.735 ms  1.769 ms  1.774 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  8.108 ms  7.262 ms  6.424 ms
+ 3  128.109.9.145 (128.109.9.145)  5.862 ms  7.386 ms  7.247 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.304 ms  11.487 ms  11.656 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  122.245 ms  111.528 ms  111.506 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  106.989 ms  107.126 ms  119.577 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  117.313 ms  120.146 ms  129.497 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  108.984 ms  121.638 ms  121.465 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  110.406 ms  121.083 ms  111.505 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  121.094 ms  121.499 ms  111.752 ms
+11  planetlab4.ethz.ch (192.33.90.69)  111.677 ms  108.693 ms  121.841 ms
+Thu Mar 31 23:48:09 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.143 ms  1.059 ms  1.043 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  8.533 ms  6.825 ms  5.913 ms
+ 3  128.109.9.145 (128.109.9.145)  5.873 ms  6.055 ms  5.813 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.909 ms  11.415 ms  11.327 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  108.132 ms  121.170 ms  108.123 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  107.090 ms  110.304 ms  107.164 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  120.284 ms  117.025 ms  116.854 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  111.774 ms  121.201 ms  108.688 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  108.092 ms  120.848 ms  108.056 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  108.439 ms  121.242 ms  113.684 ms
+11  planetlab4.ethz.ch (192.33.90.69)  111.424 ms  108.528 ms  111.370 ms
+Fri Apr  1 00:48:15 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.177 ms  2.055 ms  2.281 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.467 ms  6.476 ms  5.976 ms
+ 3  128.109.9.145 (128.109.9.145)  6.128 ms  6.246 ms  6.185 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  12.105 ms  11.771 ms  11.216 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  109.058 ms  109.691 ms  108.637 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  106.817 ms  131.010 ms  106.797 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  131.393 ms  120.284 ms  130.940 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  112.424 ms  112.597 ms  111.797 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  121.831 ms  111.624 ms  121.124 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  112.364 ms  111.558 ms  111.492 ms
+11  planetlab4.ethz.ch (192.33.90.69)  120.896 ms  111.362 ms  108.838 ms
+Fri Apr  1 01:48:16 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.807 ms  1.706 ms  1.699 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.258 ms  6.899 ms  6.185 ms
+ 3  128.109.9.145 (128.109.9.145)  6.830 ms  7.030 ms  6.354 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.348 ms  11.577 ms  11.504 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  120.702 ms  120.838 ms  121.769 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  113.117 ms  110.202 ms  107.138 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  117.220 ms  117.064 ms  129.929 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  112.234 ms  121.594 ms  108.485 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  120.909 ms  113.249 ms  112.312 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  121.128 ms  121.153 ms  121.196 ms
+11  planetlab4.ethz.ch (192.33.90.69)  108.287 ms  111.511 ms  111.371 ms
+Fri Apr  1 02:48:21 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.847 ms  1.751 ms  1.102 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.956 ms  5.813 ms  7.555 ms
+ 3  128.109.9.145 (128.109.9.145)  6.797 ms  6.089 ms  5.883 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.265 ms  11.342 ms  11.302 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  111.130 ms  108.135 ms  111.588 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  120.505 ms  109.948 ms  110.146 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  117.016 ms  121.290 ms  117.864 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  121.222 ms  121.835 ms  111.457 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  111.334 ms  120.896 ms  111.216 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  112.794 ms  111.594 ms  121.149 ms
+11  planetlab4.ethz.ch (192.33.90.69)  108.303 ms  120.956 ms  121.014 ms
+Fri Apr  1 03:48:22 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.814 ms  1.091 ms  1.053 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  12.912 ms  12.135 ms  11.472 ms
+ 3  128.109.9.145 (128.109.9.145)  7.219 ms  7.266 ms  5.998 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.724 ms  12.004 ms  11.265 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  121.105 ms  107.950 ms  111.221 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  107.240 ms  107.850 ms  110.292 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  117.164 ms  120.824 ms  117.661 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  109.604 ms  113.825 ms  113.052 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  121.941 ms  111.278 ms  108.134 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  108.281 ms  111.887 ms  121.040 ms
+11  planetlab4.ethz.ch (192.33.90.69)  120.948 ms  121.030 ms  111.275 ms
+Fri Apr  1 04:48:23 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  4.496 ms  2.527 ms  2.863 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  8.131 ms  7.255 ms  7.446 ms
+ 3  128.109.9.145 (128.109.9.145)  6.092 ms  6.321 ms  7.498 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  12.193 ms  12.417 ms  12.598 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  108.274 ms  108.174 ms  121.411 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  119.579 ms  107.350 ms  119.513 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  121.090 ms  117.432 ms  130.924 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  108.393 ms  121.284 ms  121.811 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  120.809 ms  120.936 ms  111.680 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  121.906 ms  111.547 ms  112.216 ms
+11  planetlab4.ethz.ch (192.33.90.69)  113.483 ms  108.229 ms  120.963 ms
+Fri Apr  1 05:48:24 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.754 ms  1.725 ms  1.709 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.011 ms  6.025 ms  6.088 ms
+ 3  128.109.9.145 (128.109.9.145)  5.824 ms  5.737 ms  5.733 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  13.487 ms  14.572 ms  13.703 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  120.951 ms  113.703 ms  120.818 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  107.947 ms  109.902 ms  110.369 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  130.512 ms  130.159 ms  117.086 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  111.893 ms  108.338 ms  108.584 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  110.425 ms  121.224 ms  108.271 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  121.024 ms  111.590 ms  121.863 ms
+11  planetlab4.ethz.ch (192.33.90.69)  111.547 ms  111.514 ms  108.182 ms
+Fri Apr  1 06:48:31 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  2.962 ms  1.933 ms  1.182 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.898 ms  6.351 ms  5.847 ms
+ 3  128.109.9.145 (128.109.9.145)  5.800 ms  6.051 ms  5.810 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.580 ms  11.260 ms  11.215 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  107.889 ms  120.571 ms  120.661 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  119.483 ms  107.372 ms  110.229 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  121.603 ms  122.536 ms  121.684 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  111.685 ms  121.311 ms  122.975 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  111.708 ms  111.210 ms  108.239 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  120.968 ms  120.997 ms  112.146 ms
+11  planetlab4.ethz.ch (192.33.90.69)  108.896 ms  111.283 ms  111.417 ms
+Fri Apr  1 07:48:36 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.802 ms  1.078 ms  1.066 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.125 ms  6.177 ms  6.179 ms
+ 3  128.109.9.145 (128.109.9.145)  5.889 ms  6.262 ms  6.269 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.924 ms  11.720 ms  11.718 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  111.272 ms  111.243 ms  108.074 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  119.566 ms  119.459 ms  120.046 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  129.366 ms  119.855 ms  117.470 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  108.554 ms  108.434 ms  108.653 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  111.312 ms  111.645 ms  108.281 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  108.538 ms  111.678 ms  108.538 ms
+11  planetlab4.ethz.ch (192.33.90.69)  120.874 ms  108.321 ms  111.295 ms
+Fri Apr  1 08:48:37 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.366 ms  1.675 ms  1.683 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.977 ms  6.765 ms  5.828 ms
+ 3  128.109.9.145 (128.109.9.145)  6.750 ms  5.899 ms  5.752 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.284 ms  11.374 ms  11.979 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  111.389 ms  111.301 ms  109.017 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  106.838 ms  110.155 ms  120.009 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  119.059 ms  122.418 ms  118.233 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  125.262 ms  108.374 ms  108.511 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  122.715 ms  108.343 ms  108.201 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  111.664 ms  121.034 ms  108.370 ms
+11  planetlab4.ethz.ch (192.33.90.69)  108.357 ms  108.199 ms  120.970 ms
+Fri Apr  1 09:48:38 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.875 ms  1.121 ms  1.069 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  28.378 ms  27.330 ms  26.508 ms
+ 3  128.109.9.145 (128.109.9.145)  6.107 ms  6.461 ms  5.729 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.233 ms  11.462 ms  11.247 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  110.184 ms  110.746 ms  112.331 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  119.521 ms  106.748 ms  110.072 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  118.688 ms  121.217 ms  120.381 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  108.596 ms  112.414 ms  113.776 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  108.056 ms  120.752 ms  120.706 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  109.151 ms  121.116 ms  111.496 ms
+11  planetlab4.ethz.ch (192.33.90.69)  111.297 ms  108.191 ms  120.907 ms
+Fri Apr  1 10:48:39 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  3.048 ms  4.420 ms  2.421 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  7.049 ms  6.755 ms  7.880 ms
+ 3  128.109.9.145 (128.109.9.145)  7.644 ms  9.749 ms  9.801 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.634 ms  14.891 ms  13.809 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  122.550 ms  112.581 ms  123.773 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  121.042 ms  111.391 ms  106.972 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  120.952 ms  124.020 ms  130.239 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  111.574 ms  121.598 ms  113.314 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  108.079 ms  122.366 ms  123.313 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  123.064 ms  108.414 ms  123.131 ms
+11  planetlab4.ethz.ch (192.33.90.69)  108.154 ms  111.278 ms  123.099 ms
+Fri Apr  1 11:48:40 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.227 ms  1.728 ms  1.730 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.070 ms  5.921 ms  7.511 ms
+ 3  128.109.9.145 (128.109.9.145)  6.618 ms  5.791 ms  5.978 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.372 ms  11.407 ms  13.257 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  111.574 ms  134.291 ms  133.379 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  110.812 ms  110.282 ms  119.459 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  120.237 ms  121.132 ms  118.351 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  112.137 ms  111.954 ms  108.579 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  108.226 ms  111.211 ms  120.737 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  108.367 ms  122.016 ms  108.383 ms
+11  planetlab4.ethz.ch (192.33.90.69)  120.875 ms  111.347 ms  111.322 ms
+Fri Apr  1 12:48:47 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.865 ms  1.106 ms  1.069 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.807 ms  6.291 ms  5.833 ms
+ 3  128.109.9.145 (128.109.9.145)  6.599 ms  6.374 ms  6.029 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.794 ms  12.239 ms  12.245 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  108.211 ms  120.991 ms  120.975 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  106.930 ms  110.245 ms  107.093 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  121.838 ms  120.972 ms  119.206 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  111.543 ms  108.737 ms  108.806 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  111.375 ms  120.854 ms  108.759 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  108.464 ms  121.253 ms  108.315 ms
+11  planetlab4.ethz.ch (192.33.90.69)  108.322 ms  108.322 ms  108.232 ms
+Fri Apr  1 13:48:48 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  3.316 ms  2.627 ms  2.081 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  7.041 ms  7.581 ms  6.310 ms
+ 3  128.109.9.145 (128.109.9.145)  7.508 ms  7.609 ms  7.400 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  37.636 ms  36.817 ms  35.925 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  112.615 ms  121.008 ms  120.852 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  107.465 ms  121.427 ms  107.000 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  131.305 ms  130.639 ms  118.148 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  109.557 ms  121.269 ms  121.364 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  108.490 ms  112.055 ms  112.266 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  108.587 ms  112.263 ms  111.984 ms
+11  planetlab4.ethz.ch (192.33.90.69)  111.679 ms  111.607 ms  112.013 ms
+Fri Apr  1 14:48:49 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.214 ms  1.098 ms  1.065 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.570 ms  7.155 ms  8.615 ms
+ 3  128.109.9.145 (128.109.9.145)  7.683 ms  6.839 ms  6.952 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  12.440 ms  12.587 ms  12.317 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  111.336 ms  111.483 ms  113.114 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  119.550 ms  110.147 ms  120.569 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  122.724 ms  121.997 ms  129.887 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  108.992 ms  112.006 ms  115.365 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  115.819 ms  113.005 ms  112.261 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  113.252 ms  121.289 ms  108.670 ms
+11  planetlab4.ethz.ch (192.33.90.69)  108.575 ms  108.250 ms  111.375 ms
+Fri Apr  1 15:48:55 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.817 ms  1.171 ms  1.726 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.924 ms  6.193 ms  6.204 ms
+ 3  128.109.9.145 (128.109.9.145)  6.222 ms  5.823 ms  5.862 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.531 ms  11.510 ms  11.534 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  111.467 ms  108.178 ms  111.545 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  119.722 ms  111.389 ms  119.634 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  130.933 ms  131.757 ms  130.861 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  111.688 ms  121.126 ms  111.856 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  125.992 ms  108.986 ms  109.632 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  111.825 ms  111.846 ms  111.591 ms
+11  planetlab4.ethz.ch (192.33.90.69)  121.075 ms  112.407 ms  111.413 ms
+Fri Apr  1 16:48:56 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.177 ms  1.077 ms  1.109 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  5.919 ms  6.946 ms  6.105 ms
+ 3  128.109.9.145 (128.109.9.145)  5.868 ms  7.001 ms  6.149 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.493 ms  11.436 ms  11.369 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  108.759 ms  111.437 ms  111.274 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  110.392 ms  120.513 ms  121.161 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  130.936 ms  130.106 ms  118.121 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  108.397 ms  108.853 ms  108.777 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  108.455 ms  121.290 ms  108.140 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  125.818 ms  121.286 ms  108.608 ms
+11  planetlab4.ethz.ch (192.33.90.69)  111.844 ms  111.661 ms  111.669 ms
+Fri Apr  1 17:48:57 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  5.049 ms  2.325 ms  1.222 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.064 ms  5.939 ms  6.012 ms
+ 3  128.109.9.145 (128.109.9.145)  6.015 ms  6.010 ms  5.853 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  12.672 ms  11.794 ms  11.411 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  108.089 ms  120.988 ms  111.452 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  106.995 ms  119.874 ms  110.517 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  122.417 ms  121.566 ms  122.177 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  108.774 ms  109.578 ms  108.735 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  108.163 ms  121.286 ms  108.285 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  108.443 ms  108.448 ms  112.296 ms
+11  planetlab4.ethz.ch (192.33.90.69)  110.059 ms  108.375 ms  111.460 ms
+Fri Apr  1 18:48:58 UTC 2016
+traceroute to planetlab4.inf.ethz.ch (192.33.90.69), 30 hops max, 60 byte packets
+ 1  telenet-router.telenet.unc.edu (204.85.191.254)  1.985 ms  1.790 ms  1.715 ms
+ 2  ws-a1a-ip-asr-gw-to-uncphillips.ncren.net (128.109.1.89)  6.920 ms  6.926 ms  6.922 ms
+ 3  128.109.9.145 (128.109.9.145)  6.072 ms  6.069 ms  6.023 ms
+ 4  et-9-0-0.1190.rtr.wash.net.internet2.edu (198.71.46.185)  11.446 ms  11.420 ms  11.718 ms
+ 5  internet2.mx1.fra.de.geant.net (62.40.125.17)  108.245 ms  110.774 ms  109.925 ms
+ 6  ae1.mx1.gen.ch.geant.net (62.40.98.108)  109.057 ms  107.171 ms  107.023 ms
+ 7  swice1-100ge-0-3-0-1.switch.ch (62.40.124.22)  120.219 ms  118.640 ms  129.802 ms
+ 8  swiEZ3-100GE-0-1-0-0.switch.ch (130.59.36.94)  111.548 ms  113.087 ms  121.420 ms
+ 9  swiEZ1-P3.switch.ch (130.59.36.33)  112.667 ms  109.737 ms  108.822 ms
+10  rou-open-net-switch.ethz.ch (192.33.92.161)  108.837 ms  121.956 ms  121.909 ms
+11  planetlab4.ethz.ch (192.33.90.69)  121.064 ms  109.470 ms  108.667 ms

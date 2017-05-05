@@ -1,0 +1,59 @@
+1A
+Min= 14
+Max:16
+Average =  14.0059
+SD = 0.0987435
+
+1B
+Min= 11
+Max:17
+Average =  11.0471
+SD = 0.529281
+
+2A
+Min= 12
+Max:12
+Average =  12
+SD = 0
+
+2B
+Min= 11
+Max:12
+Average =  11.325
+SD = 0.468375
+
+3A
+Min= 16
+Max:18
+Average =  16.0079
+SD = 0.125121
+
+3B
+Min= 14
+Max:20
+Average =  14.0196
+SD = 0.293356
+
+4A
+Min= 10
+Max:10
+Average =  10
+SD = 0
+
+4B
+Min= 12
+Max:12
+Average =  12
+SD = 0
+
+5A
+Min= 14
+Max:15
+Average =  14.0198
+SD = 0.139319
+
+5B
+Min= 14
+Max:17
+Average =  14.0059
+SD = 0.132712
